@@ -2,6 +2,13 @@
 
 let arr;
 arr = [225, 'blizzard', true, 66, 'guerrilla', 90, 'capcom', false, 100500, 'fromsoftware']
-arr.forEach(element => {
-    console.log(element);
-});
+console.log(arr[0]);
+console.log(arr[1]);
+console.log(arr[2]);
+console.log(arr[3]);
+console.log(arr[4]);
+console.log(arr[5]);
+console.log(arr[6]);
+console.log(arr[7]);
+console.log(arr[8]);
+console.log(arr[9]);
